@@ -1,0 +1,12 @@
+generator a better chance to gain enough entropy.
+gpg: /c/Users/Garvit/.gnupg/trustdb.gpg: trustdb created
+gpg: key F556C39A6DAC9F05 marked as ultimately trusted
+gpg: directory '/c/Users/Garvit/.gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/c/Users/Garvit/.gnupg/openpgp-revocs.d/9970C3FA5ABA75A5CB211C3BF556C39A6DAC9F05.rev'
+public and secret key created and signed.
+
+pub   rsa4096 2022-08-13 [SC]
+      9970C3FA5ABA75A5CB211C3BF556C39A6DAC9F05
+uid                      Mohit Verma (GPG Key) <mohi4umohi@gmail.com>
+sub   rsa4096 2022-08-13 [E]
+
